@@ -1,5 +1,5 @@
 RENCANA KP
 
-- Membuat program
-- Membuat laporan
+- Membuat program ( Inventaris )
+- Membuat laporan ( sampai bab III )
 - Konsul
