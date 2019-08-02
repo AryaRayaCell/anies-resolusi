@@ -1,8 +1,9 @@
 ANIES RESOLUSI 2019
 - Kelar sidang KP
-  + Bikin Apk
-  + Laporan
-- Kelar Sidang TA 1
+  + Membuat aplikasi yang responsive
+  + Mengelarkan laporan
+  + Sidang
+- Kelar Sidang TA 1 ( Bab I II dan III )
 - IPK 3.60
 - Kelar Sidang TA 2
 - Lulus Tepat waktu
